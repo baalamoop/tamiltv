@@ -1,0 +1,75 @@
+#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
+#EXTINF:-1 tvg-id="10" group-title="Backup" tvg-logo="",Sun music 🎼
+http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
+#EXTINF:-1 tvg-id="09" group-title="Backup" tvg-logo="",Sun tv hd
+http://103.132.16.98:8080/suntvhd/mpegts
+#EXTINF:-1 tvg-id="08" group-title="Backup" tvg-logo="",Sun music 🎶🎶
+https://catchup.yuppcdn.net/amazonv2/20/preview/sunmusichd/master/master.m3u8
+#EXTINF:-1 tvg-id="07" group-title="Backup" tvg-logo="",Sun life
+https://catchup.yuppcdn.net/amazonv2/20/preview/sunlife/master/master.m3u8
+#EXTINF:-1 tvg-id="06" group-title="Backup" tvg-logo="",Sun tv
+https://catchup.yuppcdn.net/amazonv2/20/preview/suntvhd/master/master.m3u8
+#EXTINF:-1 tvg-id="05" group-title="Backup" tvg-logo="",IBC tamil
+https://catchup.yuppcdn.net/amazonv2/20/preview/ibctamil/master/master.m3u8
+#EXTINF:-1 tvg-id="04" group-title="Backup" tvg-logo="",Jaya max
+https://catchup.yuppcdn.net/amazonv2/20/preview/jayamax/master/master.m3u8
+#EXTINF:-1 tvg-id="03" group-title="Backup" tvg-logo="",Jaya movie
+https://catchup.yuppcdn.net/amazonv2/20/preview/jayamovies/master/master.m3u8
+#EXTINF:-1 tvg-id="02" group-title="Backup" tvg-logo="",Sun news
+https://catchup.yuppcdn.net/amazonv2/20/preview/sunnews/master/master.m3u8
+#EXTINF:-1 tvg-id="01" group-title="Backup" tvg-logo="",Colors Tamil
+https://catchup.yuppcdn.net/amazonv2/20/preview/colorstamil/master/master.m3u8
+#EXTINF:-1 tvg-id="21" group-title="" tvg-logo="",Puthiyathalamurai
+http://mhdtvworld.xyz@103.199.160.85:80/Content/puthiyathalamurai/Live/Channel(PuthiyaThalamurai)/index.m3u8
+#EXTINF:-1 tvg-id="20" group-title="" tvg-logo="",Jaya plus
+http://mhdtvworld.xyz@103.199.160.85:80/Content/jayaplus/Live/Channel(JAYAPLUS)/index.m3u8
+#EXTINF:-1 tvg-id="19" group-title="" tvg-logo="",Discovery in tamil
+http://mhdtvworld.xyz@137.59.85.66:80/Content/discoverytamil/Live/Channel(DISCOVERYTAMIL)/index.m3u8
+#EXTINF:-1 tvg-id="18" group-title="" tvg-logo="",Jaya movie
+http://mhdtvworld.xyz@137.59.85.66:80/Content/jayamovies/Live/Channel(JAYAMOVIES)/index.m3u8
+#EXTINF:-1 tvg-id="17" group-title="" tvg-logo="",Jaya tv
+http://mhdtvworld.xyz@103.199.160.85:80/Content/jayatv/Live/Channel(JAYATV)/index.m3u8
+#EXTINF:-1 tvg-id="04" group-title="Kids" tvg-logo="",Sony Yay tamil
+https://node103074-join-us-on-telegram-streamkinglive.in1.bitmana.io/live.php?c=Sony_Yay_Tamil&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="03" group-title="Kids" tvg-logo="",Sonic in Tamil
+https://node103074-join-us-on-telegram-streamkinglive.in1.bitmana.io/live.php?c=Sonic_Tamil&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="03" group-title="Kids" tvg-logo="",Nick in tamil
+https://node103074-join-us-on-telegram-streamkinglive.in1.bitmana.io/live.php?c=Nick_Tamil&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="02" group-title="Kids" tvg-logo="",Pogo in tamil
+https://node103074-join-us-on-telegram-streamkinglive.in1.bitmana.io/live.php?c=Pogo_Tamil&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="01" group-title="Kids" tvg-logo="",Cartoon network
+https://node103074-join-us-on-telegram-streamkinglive.in1.bitmana.io/live.php?c=Cartoon_Network_Tamil&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="16" group-title="" tvg-logo="",Mon tv
+http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="15" group-title="" tvg-logo="",7 star
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+#EXTINF:-1 tvg-id="14" group-title="" tvg-logo="",Captain tv
+http://103.199.160.85:80/Content/captain/Live/Channel(Captain)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="13" group-title="" tvg-logo="",World tv in Tamil
+http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
+#EXTINF:-1 tvg-id="12" group-title="" tvg-logo="",Polimer tv
+http://103.199.160.85:80/Content/polimer/Live/Channel(Polimer)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="11" group-title="" tvg-logo="",UTV hd
+http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
+#EXTINF:-1 tvg-id="10" group-title="" tvg-logo="",Raj tv
+http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="09" group-title="" tvg-logo="",Star sports 1 in hd
+http://sideriodomi.ottc.pro/live/AWXEFPWRBG/FZ7MLADNVB/2750.ts
+#EXTINF:-1 tvg-id="01" group-title="Backup " tvg-logo="",Colors Tamil HD
+https://catchup.yuppcdn.net/amazonv2/20/preview/colorstamil/master/master.m3u8
+#EXTINF:-1 tvg-id="08" group-title="" tvg-logo="",Sun news
+https://catchup.yuppcdn.net/amazonv2/20/preview/sunnews/master/master.m3u8
+#EXTINF:-1 tvg-id="07" group-title="" tvg-logo="",Zee tamil
+https://node103074-join-us-on-telegram-streamkinglive.in1.bitmana.io/live.php?c=Zee_Tamil&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="06" group-title="" tvg-logo="",Colors Tamil
+https://node103074-join-us-on-telegram-streamkinglive.in1.bitmana.io/live.php?c=Colors_Tamil&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="05" group-title="" tvg-logo="",KTV hd
+https://2w4b.short.gy/Ktvhd
+#EXTINF:-1 tvg-id="04" group-title="" tvg-logo="",Sun life
+https://2w4b.short.gy/Sunlife
+#EXTINF:-1 tvg-id="03" group-title="" tvg-logo="",Sun music 🎵🎵
+https://2w4b.short.gy/SunmusicHD
+#EXTINF:-1 tvg-id="02" group-title="" tvg-logo="",Sun tv hd
+https://2w4b.short.gy/Suntvhd
+#EXTINF:-1 tvg-id="01" group-title="" tvg-logo="",Star Vijay hd
+https://2w4b.short.gy/Starvijayhd
